@@ -1,6 +1,8 @@
 # VERIFY THE FILE src/app/services/heroes.service.ts
 # AND PUT YOUR OWN
 
+# Deployet at https://cdamcrudangularn1.netlify.app
+
 ## Excecute npm install 
 
 ## Development server
