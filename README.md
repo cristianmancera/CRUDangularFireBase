@@ -1,7 +1,7 @@
 # VERIFY THE FILE src/app/services/heroes.service.ts
 # AND PUT YOUR OWN
 
-# Deployet at https://cdamcrudangularn1.netlify.app
+# Deployet at https://cdamcrudangularn1.netlify.app Si recarga la pagina ocurre una excepcion, no recargue o vuelva a ingresar desde el link
 
 ## Excecute npm install 
 
